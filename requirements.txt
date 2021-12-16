@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+datetime
+matplotlib
+scipy
+seaborn
+sklearn
+squarify
