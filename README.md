@@ -1,6 +1,9 @@
 CUSTOMER SEGMENTATION COHORT RFM CLUSTERING
 
-TỔNG QUAN VỀ HỆ THỐNG DỮ LIỆU 		
+TỔNG QUAN VỀ HỆ THỐNG DỮ LIỆU 	
+
+Nên chuyển qua theme màu dark thì sẽ nhìn đẹp hơn
+https://customer-segmentation-coh.herokuapp.com/
 		
 ![image](https://user-images.githubusercontent.com/96172322/146408933-f136b910-728a-40c9-8018-97304cc6df6e.png)
 	
